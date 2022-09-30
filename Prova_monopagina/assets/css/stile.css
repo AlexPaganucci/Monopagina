@@ -21,7 +21,7 @@ header img{
     width: 40%;
 }
 /* MAIN */
-#sect1{
+#sezprinc{
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,14 +30,14 @@ header img{
     padding: 50px;
     margin-bottom: 50px;
 }
-#sect1 h1{
+#sezprinc h1{
     font-size: 40px;
     line-height: 100%;
 }
-#sect1 p{
+#sezprinc p{
     padding: 30px 20px 40px 20px;
 }
-#sect1 button{
+#sezprinc button{
     padding: 15px 50px;
     background-color: #f04c2f;
     border-style: none;
